@@ -42,7 +42,7 @@ class CreditsState extends MusicBeatState
 		['rapparep lol',      'rapparep',	        'Made Gary sprites, Moral support, Purgatory Contributor',                   'https://www.youtube.com/c/rappareplol',		0xFFFF0000],
 		['CyndaquilDAC',      'cynda',	        'Programmed a few additions, Composed Supplanted, Made 2d God Bambi & Joke Bambi Remastered Sprites',                   'https://www.youtube.com/channel/UCTaq4jni33NoaI1TfMXCRcA',		0xFFFF0000],
 		['Maevings',      'maevings',	        'Composed Opposition, Purgatory Contributor',                   'https://www.youtube.com/c/Maevings',		0xFFFF0000],
-		['Memory_001',			'memory',			'Created Bambi Corrupt Sprites, Purgatory Contributor',				                        '',		    0xFFFF0000],
+		['Lezard :D',			'memory',			'Created Bambi Corrupt Sprites, Purgatory Contributor',				                        '',		    0xFFFF0000],
 		['Lancey',			'lancey',			'Applecore Artist, Created 3D Bambi God Sprites',				                        'https://www.youtube.com/c/Lancey170',		    0xFFFF0000], 
 		['Grantare',			'grantare',			'Helped with the Alt Notes for Devastation (Coming Soon!), Purgatory Contributor',				                        'https://www.youtube.com/c/Grantare',		    0xFFFF0000], 
 		['Gael',			'gael',			'Created some icons, Purgatory Contributor',				                        '',		    0xFFFF0000], 
